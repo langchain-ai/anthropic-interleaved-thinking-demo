@@ -1,0 +1,302 @@
+[
+    {
+        "company_name": "Acme Corporation",
+        "contract_amount": 45000,
+        "contract_length": 12,
+        "renewal_date": "2026-07-15"
+    },
+    {
+        "company_name": "TechSolutions Inc.",
+        "contract_amount": 78500,
+        "contract_length": 24,
+        "renewal_date": "2026-03-22"
+    },
+    {
+        "company_name": "Global Dynamics",
+        "contract_amount": 125000,
+        "contract_length": 36,
+        "renewal_date": "2026-09-01"
+    },
+    {
+        "company_name": "Quantum Industries",
+        "contract_amount": 32000,
+        "contract_length": 12,
+        "renewal_date": "2026-12-10"
+    },
+    {
+        "company_name": "Pioneer Innovations",
+        "contract_amount": 67800,
+        "contract_length": 24,
+        "renewal_date": "2026-08-15"
+    },
+    {
+        "company_name": "Horizon Enterprises",
+        "contract_amount": 54200,
+        "contract_length": 18,
+        "renewal_date": "2026-01-05"
+    },
+    {
+        "company_name": "Summit Systems",
+        "contract_amount": 96400,
+        "contract_length": 24,
+        "renewal_date": "2026-05-28"
+    },
+    {
+        "company_name": "Crestview Analytics",
+        "contract_amount": 42750,
+        "contract_length": 12,
+        "renewal_date": "2026-09-30"
+    },
+    {
+        "company_name": "Nova Tech",
+        "contract_amount": 115000,
+        "contract_length": 36,
+        "renewal_date": "2026-04-12"
+    },
+    {
+        "company_name": "Pinnacle Software",
+        "contract_amount": 28500,
+        "contract_length": 6,
+        "renewal_date": "2026-06-18"
+    },
+    {
+        "company_name": "Atlas Consulting",
+        "contract_amount": 84300,
+        "contract_length": 24,
+        "renewal_date": "2026-11-23"
+    },
+    {
+        "company_name": "Catalyst Media",
+        "contract_amount": 37500,
+        "contract_length": 12,
+        "renewal_date": "2026-08-05"
+    },
+    {
+        "company_name": "Elevate Biotech",
+        "contract_amount": 156000,
+        "contract_length": 36,
+        "renewal_date": "2026-07-19"
+    },
+    {
+        "company_name": "Saphire Health",
+        "contract_amount": 92000,
+        "contract_length": 24,
+        "renewal_date": "2026-02-14"
+    },
+    {
+        "company_name": "Redwood Financial",
+        "contract_amount": 135000,
+        "contract_length": 36,
+        "renewal_date": "2026-10-08"
+    },
+    {
+        "company_name": "Lighthouse Education",
+        "contract_amount": 48500,
+        "contract_length": 12,
+        "renewal_date": "2026-11-30"
+    },
+    {
+        "company_name": "Vertex Manufacturing",
+        "contract_amount": 72000,
+        "contract_length": 18,
+        "renewal_date": "2026-04-25"
+    },
+    {
+        "company_name": "Emerald Retail",
+        "contract_amount": 35200,
+        "contract_length": 12,
+        "renewal_date": "2026-10-15"
+    },
+    {
+        "company_name": "Meridian Logistics",
+        "contract_amount": 68900,
+        "contract_length": 24,
+        "renewal_date": "2026-06-30"
+    },
+    {
+        "company_name": "Phoenix Energy",
+        "contract_amount": 184500,
+        "contract_length": 48,
+        "renewal_date": "2026-03-17"
+    },
+    {
+        "company_name": "Velocity Sports",
+        "contract_amount": 29800,
+        "contract_length": 12,
+        "renewal_date": "2026-05-22"
+    },
+    {
+        "company_name": "Cobalt Security",
+        "contract_amount": 52000,
+        "contract_length": 18,
+        "renewal_date": "2026-12-28"
+    },
+    {
+        "company_name": "Fusion Networks",
+        "contract_amount": 103000,
+        "contract_length": 24,
+        "renewal_date": "2026-09-11"
+    },
+    {
+        "company_name": "Echo Communications",
+        "contract_amount": 41500,
+        "contract_length": 12,
+        "renewal_date": "2026-08-19"
+    },
+    {
+        "company_name": "Orion Aerospace",
+        "contract_amount": 225000,
+        "contract_length": 48,
+        "renewal_date": "2026-01-31"
+    },
+    {
+        "company_name": "Avalon Real Estate",
+        "contract_amount": 59700,
+        "contract_length": 18,
+        "renewal_date": "2026-03-08"
+    },
+    {
+        "company_name": "Equinox Investments",
+        "contract_amount": 140000,
+        "contract_length": 36,
+        "renewal_date": "2026-05-24"
+    },
+    {
+        "company_name": "Pulse Entertainment",
+        "contract_amount": 32500,
+        "contract_length": 12,
+        "renewal_date": "2026-07-29"
+    },
+    {
+        "company_name": "Evergreen Agriculture",
+        "contract_amount": 78500,
+        "contract_length": 24,
+        "renewal_date": "2026-08-05"
+    },
+    {
+        "company_name": "Spectrum Telecom",
+        "contract_amount": 95400,
+        "contract_length": 24,
+        "renewal_date": "2026-02-28"
+    },
+    {
+        "company_name": "Silverline Automotive",
+        "contract_amount": 62800,
+        "contract_length": 18,
+        "renewal_date": "2026-05-12"
+    },
+    {
+        "company_name": "Crystal Waters",
+        "contract_amount": 27500,
+        "contract_length": 6,
+        "renewal_date": "2026-06-04"
+    },
+    {
+        "company_name": "Alpine Outdoors",
+        "contract_amount": 39000,
+        "contract_length": 12,
+        "renewal_date": "2026-09-17"
+    },
+    {
+        "company_name": "Polaris Defense",
+        "contract_amount": 195000,
+        "contract_length": 48,
+        "renewal_date": "2026-06-22"
+    },
+    {
+        "company_name": "Helix Pharmaceuticals",
+        "contract_amount": 142500,
+        "contract_length": 36,
+        "renewal_date": "2026-03-01"
+    },
+    {
+        "company_name": "Kodiak Construction",
+        "contract_amount": 86700,
+        "contract_length": 24,
+        "renewal_date": "2026-01-19"
+    },
+    {
+        "company_name": "Indigo Fashion",
+        "contract_amount": 34250,
+        "contract_length": 12,
+        "renewal_date": "2026-11-05"
+    },
+    {
+        "company_name": "Prism Architecture",
+        "contract_amount": 72800,
+        "contract_length": 18,
+        "renewal_date": "2026-07-14"
+    },
+    {
+        "company_name": "Carbon Footwear",
+        "contract_amount": 29500,
+        "contract_length": 12,
+        "renewal_date": "2026-10-28"
+    },
+    {
+        "company_name": "Zenith Insurance",
+        "contract_amount": 118000,
+        "contract_length": 36,
+        "renewal_date": "2026-01-15"
+    },
+    {
+        "company_name": "Oasis Hospitality",
+        "contract_amount": 47500,
+        "contract_length": 12,
+        "renewal_date": "2026-04-30"
+    },
+    {
+        "company_name": "Magnum Shipping",
+        "contract_amount": 84000,
+        "contract_length": 24,
+        "renewal_date": "2026-10-10"
+    },
+    {
+        "company_name": "Radiant Healthcare",
+        "contract_amount": 163000,
+        "contract_length": 36,
+        "renewal_date": "2026-08-25"
+    },
+    {
+        "company_name": "Vortex Gaming",
+        "contract_amount": 45800,
+        "contract_length": 12,
+        "renewal_date": "2026-12-15"
+    },
+    {
+        "company_name": "Titanium Metals",
+        "contract_amount": 112500,
+        "contract_length": 24,
+        "renewal_date": "2026-04-08"
+    },
+    {
+        "company_name": "Solstice Solar",
+        "contract_amount": 173000,
+        "contract_length": 36,
+        "renewal_date": "2026-11-12"
+    },
+    {
+        "company_name": "Hyperion Data",
+        "contract_amount": 65200,
+        "contract_length": 18,
+        "renewal_date": "2026-02-01"
+    },
+    {
+        "company_name": "Nebula Cloud",
+        "contract_amount": 58700,
+        "contract_length": 12,
+        "renewal_date": "2026-07-07"
+    },
+    {
+        "company_name": "Empire Foods",
+        "contract_amount": 42000,
+        "contract_length": 12,
+        "renewal_date": "2026-10-02"
+    },
+    {
+        "company_name": "Terra Organics",
+        "contract_amount": 37500,
+        "contract_length": 12,
+        "renewal_date": "2026-05-18"
+    }
+]
